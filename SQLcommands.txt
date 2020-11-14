@@ -28,3 +28,10 @@ create table selfTime (
     bellman int,
     floyd int
 );
+
+create table correctNess(
+    test_id int AUTO_INCREMENT primary key,
+    aStar boolean,
+    bellman boolean,
+    floyd boolean
+);
