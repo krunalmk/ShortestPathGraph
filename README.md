@@ -16,4 +16,6 @@ Follow the following steps to setup web server in your system to setup the websi
 5. Execute following command,
     python home.py
 6. Hurray ! Website is ready !
-7. Open "127.0.0.1:5000" in your web browser. You will be see the website. HAPPY CODING :)
+7. Open "127.0.0.1:5000" in your web browser to view the website.
+
+HAPPY CODING :)
